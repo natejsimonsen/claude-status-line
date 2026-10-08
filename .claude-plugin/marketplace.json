@@ -1,5 +1,13 @@
 {
   "name": "claude-status-line",
-  "owner": { "name": "natejsimonsen" },
-  "plugins": [{ "name": "statline", "source": "./" }]
+  "owner": {
+    "name": "natejsimonsen"
+  },
+  "description": "Status line mods for Claude Code",
+  "plugins": [
+    {
+      "name": "statline",
+      "source": "./"
+    }
+  ]
 }
