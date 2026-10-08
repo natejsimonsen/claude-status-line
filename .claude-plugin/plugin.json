@@ -1,0 +1,7 @@
+{
+  "name": "statline",
+  "version": "0.5.0",
+  "description": "A quiet one-row status under the prompt: model, effort and context",
+  "author": { "name": "nate.simonsen" },
+  "types": "./types/index.d.ts"
+}
